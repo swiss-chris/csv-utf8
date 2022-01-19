@@ -1,0 +1,5 @@
+### CSV
+GET localhost:8080/v1/point-of-interest
+Accept: text/csv; charset=utf-8
+
+>> csv/csv-utf8.csv
